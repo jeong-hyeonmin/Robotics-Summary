@@ -1,3 +1,10 @@
 # 자동제어
 
-현민이가 이제 여기 구성
+
+## Contents  
+- [Dynamic model](#Dynamic-model)
+ 
+
+## Dynamic model  
+하나만 해보고 검사 맡을것..
+
